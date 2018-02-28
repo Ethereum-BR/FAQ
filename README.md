@@ -4,7 +4,7 @@ Perguntas Frequentes sobre Ethereum, Blockchain, Solidity, etc.
 
 Contribua com este documento [criando uma issue](https://github.com/Ethereum-BR/FAQ/issues) e participando do nosso grupo no [Telegram](https://t.me/reactnativedrops).
 
-- [O que é Blockchain ?](#o-que-e-blockchain-?)
+- [O que é Blockchain ?](#o-que-%C3%A9-blockchain-)
 
 ## O que é Blockchain ?
 
